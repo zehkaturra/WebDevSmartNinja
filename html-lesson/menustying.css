@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+#booglelogo {
+    height: 10vh;
+}
+
+.loginblock {
+    background-color: #eeeeee;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+}
+
+.container-block {
+    padding: 30px;
+    text-align: center;
+}
+
+.navbar {
+    height: 60px;
+    width: 100%;
+    background-color: #c6c6c6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.title {}
+.links {}

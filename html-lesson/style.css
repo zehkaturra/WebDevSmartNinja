@@ -1,0 +1,12 @@
+#bloco {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+#container {
+    display: flex;
+    background-color: green;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-between;
+}
